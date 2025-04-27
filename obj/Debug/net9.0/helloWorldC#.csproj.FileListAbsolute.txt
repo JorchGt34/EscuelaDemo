@@ -1,0 +1,14 @@
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/helloWorldC#/bin/Debug/net9.0/helloWorldC#
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/helloWorldC#/bin/Debug/net9.0/helloWorldC#.deps.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/helloWorldC#/bin/Debug/net9.0/helloWorldC#.runtimeconfig.json
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/helloWorldC#/bin/Debug/net9.0/helloWorldC#.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/helloWorldC#/bin/Debug/net9.0/helloWorldC#.pdb
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/helloWorldC#/obj/Debug/net9.0/helloWorldC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/helloWorldC#/obj/Debug/net9.0/helloWorldC#.AssemblyInfoInputs.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/helloWorldC#/obj/Debug/net9.0/helloWorldC#.AssemblyInfo.cs
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/helloWorldC#/obj/Debug/net9.0/helloWorldC#.csproj.CoreCompileInputs.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/helloWorldC#/obj/Debug/net9.0/helloWorldC#.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/helloWorldC#/obj/Debug/net9.0/refint/helloWorldC#.dll
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/helloWorldC#/obj/Debug/net9.0/helloWorldC#.pdb
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/helloWorldC#/obj/Debug/net9.0/helloWorldC#.genruntimeconfig.cache
+/Users/jorgemontoyaprieto/Desktop/GitHubRepos/helloWorldC#/obj/Debug/net9.0/ref/helloWorldC#.dll
